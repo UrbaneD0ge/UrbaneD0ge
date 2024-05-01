@@ -6,8 +6,27 @@ Kip spent the better part of a decade working in the Land Use and Public Transit
 
 Kip is currently employed by the Atlanta Department of City Planning as a Program Coordinator, where he provides resources and support to the City's 25 Neighborhood Planning Units (NPUs). Several projects here were created in service of this role, and are currently in use by City Planning staff.
 
-![Static Badge](https://img.shields.io/badge/Svelte-grey?style=plastic&logo=svelte&logoColor=%23FF3E00&logoSize=auto) ![Static Badge](https://img.shields.io/badge/Node-gray?style=plastic&logo=nodedotjs&logoColor=%235FA04E&logoSize=auto) ![Static Badge](https://img.shields.io/badge/JS-gray?style=plastic&logo=javascript&logoColor=%23F7DF1E&logoSize=auto) ![Static Badge](https://img.shields.io/badge/MongoDB-gray?style=plastic&logo=mongodb&logoColor=%2347A248&logoSize=auto)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-
-
+###
 
