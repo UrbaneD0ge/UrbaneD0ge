@@ -1,6 +1,6 @@
 ### About Kip
 
-Born and raised in the Atlanta area; Kip holds a Bachelor of Science degree in Public Policy Analysis from Georgia State University, and received a certificate in Full-Stack Web Development Coding from Georgia Tech's Bootcamp in December of 2021.
+Born and raised in the Atlanta area; Kip holds a Bachelor of Science degree in Public Policy Analysis from Georgia State University, and received a certificate in Full-Stack Web Development Coding from Georgia Tech's Bootcamp in December of 2021. He's currently seeking a Professional Certificate in Geographic Information Systems (GIS) from Georgia State University.
 
 Kip spent the better part of a decade working in the Land Use and Public Transit Advocacy fields as a practitioner of Transportation Demand Management ("TDM"). He was a member of Americans for Commuter Transportation and served on the board of the Atlanta planning advocacy group ThreadATL. For six years, he served as Chief Legislative Aide to Georgia House District 58 Representative Park Cannon with whom he remains a lifelong friend and ardent supporter.
 
