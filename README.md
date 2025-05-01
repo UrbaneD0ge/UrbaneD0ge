@@ -4,7 +4,7 @@ Born and raised in the Atlanta area; Kip holds a Bachelor of Science degree in P
 
 Kip spent the better part of a decade working in the Land Use and Public Transit Advocacy fields as a practitioner of Transportation Demand Management ("TDM"). He was a member of Americans for Commuter Transportation and served on the board of the Atlanta planning advocacy group ThreadATL. For six years, he served as Chief Legislative Aide to Georgia House District 58 Representative Park Cannon with whom he remains a lifelong friend and ardent supporter.
 
-Kip is currently employed by the Atlanta Department of City Planning as a Program Coordinator, where he provides resources and support to the City's 25 Neighborhood Planning Units (NPUs). Several projects here were created in service of this role, and are currently in use by City Planning staff.
+Kip is currently employed by Foursquare ITP as a Project Manager for "Georgia Commute Options".
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
